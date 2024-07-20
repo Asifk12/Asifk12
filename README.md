@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/1530256492/vector/software-development-concept-laptop-with-open-screen-hanging-over-desk-coding-or-programming.jpg?s=2048x2048&w=is&k=20&c=TMHHgdoHy8N49Q1rKDhxRZjZiQXsFvH5sRPyFSmmEXk=)
+![MasterHead](https://media.licdn.com/dms/image/D5612AQH4n6yFnEWuaw/article-cover_image-shrink_600_2000/0/1707416620365?e=2147483647&v=beta&t=Ackg7N3tNhbdv16Z5iqSo9F0BYl78TrRLIP_qBpw_Ck)
 
 <h1 align="center">Hi 👋, I'm MD Asif Khan</h1>
 <h3 align="center">A passionate Web developer from India</h3>
